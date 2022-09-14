@@ -1,6 +1,8 @@
 // Fransiskus Agapa
 // Practices make improvement - Have Fun !!!
-// :)
+//:)
+
+// Inspiration : Zybook DS 1 
 
 // ===============
 // learn how linked list and its Node is created, linked, and inserted
